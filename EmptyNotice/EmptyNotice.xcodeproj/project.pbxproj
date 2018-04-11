@@ -17,6 +17,7 @@
 		BC800A3D207DD96900B5CB98 /* NSString+AttributedString.m in Sources */ = {isa = PBXBuildFile; fileRef = BC800A3C207DD96900B5CB98 /* NSString+AttributedString.m */; };
 		BCD825BA207DE5210096097C /* NormalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BCD825B9207DE5210096097C /* NormalViewController.m */; };
 		BCD825BD207DE5320096097C /* TableViewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BCD825BC207DE5320096097C /* TableViewViewController.m */; };
+		BCD82665207E1B220096097C /* WechatIMG74.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BCD82664207E1B220096097C /* WechatIMG74.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		BCD825B9207DE5210096097C /* NormalViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NormalViewController.m; sourceTree = "<group>"; };
 		BCD825BB207DE5320096097C /* TableViewViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TableViewViewController.h; sourceTree = "<group>"; };
 		BCD825BC207DE5320096097C /* TableViewViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewViewController.m; sourceTree = "<group>"; };
+		BCD82664207E1B220096097C /* WechatIMG74.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = WechatIMG74.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				BCD825B9207DE5210096097C /* NormalViewController.m */,
 				BCD825BB207DE5320096097C /* TableViewViewController.h */,
 				BCD825BC207DE5320096097C /* TableViewViewController.m */,
+				BCD82664207E1B220096097C /* WechatIMG74.jpeg */,
 				BC800A27207DD74900B5CB98 /* Main.storyboard */,
 				BC800A2A207DD74A00B5CB98 /* Assets.xcassets */,
 				BC800A2C207DD74A00B5CB98 /* LaunchScreen.storyboard */,
@@ -156,6 +159,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BCD82665207E1B220096097C /* WechatIMG74.jpeg in Resources */,
 				BC800A2E207DD74A00B5CB98 /* LaunchScreen.storyboard in Resources */,
 				BC800A2B207DD74A00B5CB98 /* Assets.xcassets in Resources */,
 				BC800A29207DD74900B5CB98 /* Main.storyboard in Resources */,
