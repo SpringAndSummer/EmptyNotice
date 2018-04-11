@@ -28,3 +28,8 @@ objc_getAssociatedObject(id _Nonnull object, const void * _Nonnull key)
 2. key 关联对象的关键字
 
 #### PS:还有一个方法不常用,objc_removeAssociatedObjects(id _Nonnull object),这个方法用来移除关联者(id object)的所有关联对象，将该对象恢复成“原始”状态。这样做就很有可能把别人添加的关联对象也一并移除，这并不是我们所希望的。
+
+本demo提供了一个很简单的思路去实现了我们项目中的空白图的展示,如果与你的业务不符合,你可以基于这个思路进行封装,整体来看还是比较轻量化,无侵入性和容易维护的.
+
+### 在项目中的效果图
+![General preferences pane](https://raw.githubusercontent.com/SpringAndSummer/EmptyNotice/master/EmptyNotice/EmptyNotice/WechatIMG74.jpeg)
